@@ -1,0 +1,2401 @@
+﻿rating_music_no	rating_member_id	rating_kinds	rating
+1	eun04	1	앵앵거린다
+1	gmlduf	1	귀호강
+1	hong3	1	목소리가 사기야…
+1	hoon30	1	오랜만에 제대로 된 곡인 듯
+1	song	0	
+1	tpwns	0	
+1	user01	0	
+2	eun04	0	
+2	hoon30	1	너무 지루해요
+2	hun96	0	
+2	ji89	1	
+2	lee03	0	
+2	lee03	0	
+2	name96	1	우울할때 듣기 좋다
+2	son12	0	
+2	soyoung	1	
+2	you06	1	
+3	kimsang	1	
+3	lee03	0	
+3	na97	0	
+3	user01	0	
+3	user05	1	짱짱
+3	user05	0	
+3	user06	0	
+4	hoon30	1	
+4	hoon30	0	
+4	jung00	0	
+4	na97	0	
+5	dong	1	윗분 귀가 이상한거 같네요
+5	kim96	0	
+5	na97	1	
+5	rudgns	0	
+5	user03	0	
+5	user6732	1	내 마음 대신 말해주는 노래
+5	woo93	1	
+5	yena	1	
+6	eun04	1	
+6	fe91	1	하루에 10번은 넘게 듣는듯
+6	gmlduf	1	
+6	hun96	1	
+6	kim96	0	
+6	song	1	지금도 듣고 있는데 너무 좋은것 같아요
+6	tpwns	0	
+6	user01	0	
+6	user03	0	
+6	user07	1	귀정화하고 갑니다.
+6	user07	1	
+6	woo93	1	
+7	name96	1	고음 진짜 깔끔하다 bb
+7	name96	0	
+7	rudgns	0	
+7	song	0	
+7	user06	0	
+7	user07	0	
+8	dlsgh	1	
+8	dong	0	
+8	hong3	0	
+8	ji89	0	
+8	jung00	0	
+8	kim82	1	한마디로 완벽하다
+8	name96	0	
+8	rudgns	0	
+8	son12	0	
+8	song	0	
+8	user01	0	
+9	eun04	1	긍정적이다
+9	hun96	0	
+9	hun96	0	
+9	jisoo	0	
+9	lee03	0	
+9	tpwns	1	완벽하다
+9	woo93	0	
+10	dlsgh	0	
+10	hoon30	1	첫눈이 오는 날 듣고 싶어지는 노래
+10	kim82	0	
+10	son12	1	
+10	user04	0	
+10	wjdtn07	1	광고로 나와도 나올때마다 다 들어줄수 있을듯
+10	wjdtn07	0	
+10	yena	1	자신감이 솟구친다
+10	yena	0	
+11	eun04	1	
+11	gmlduf	0	
+11	ji89	1	진짜 명곡
+11	kimsang	0	
+11	rudgns	1	멜론1위 가자
+11	user02	0	
+11	youjin	1	여기 외국인도 꽤 있네요 자랑스럽습니다.
+12	gmlduf	1	
+12	gmlduf	0	
+12	hoon30	0	
+12	kim82	1	노래 끝판왕
+12	user01	0	
+12	user01	0	
+12	yena	1	눈물이 날거 같다
+12	zoo	1	
+13	fe91	0	
+13	hong3	0	
+13	hoon30	1	
+13	ji89	0	
+13	jung00	1	세상에 이런 노래가 또 있을까?
+13	name96	1	이거 잘부르면 인싸임
+13	tpwns	0	
+13	tpwns	0	
+14	hoon30	1	
+14	hun96	1	목소리때문에 듣는다
+14	jisoo	1	
+14	kimsang	1	
+14	son12	1	내가 더 잘부를거 같다
+14	user08	1	이분은 노래 접으셔야 할 것 같다
+15	dong	0	
+15	eun04	1	
+15	hwang	0	
+15	hwang	0	
+15	you06	0	
+16	dong	0	
+16	ji89	1	I love it.
+16	kim96	1	슬퍼요
+16	kimsang	0	
+16	lee03	0	
+16	song	1	사겼던사람이 그리워져요
+16	wjdtn07	0	
+16	woo93	0	
+17	jung00	1	기분이 업되는듯
+17	kim96	0	
+17	lee03	0	
+17	tjwns	1	
+17	user07	0	
+18	dlsgh	1	
+18	jung00	0	
+18	name96	1	댄스음악이 이렇게 좋을 수 있네요
+18	tjwns	0	
+18	user06	0	
+19	gmlduf	0	
+19	hong3	1	
+19	ji89	0	
+19	user07	0	
+19	woo93	1	따뜻하다
+19	woo93	0	
+19	yena	1	최고다 진짜
+19	youjin	1	헤어질때 들으면 좋은거 같아요
+20	hong3	1	노래 진짜 인생곡
+20	user01	0	
+20	user02	1	재밌다
+20	user04	1	다른 노래에비해 좀 떨어지는듯
+20	user04	1	
+20	woo93	0	
+21	kim82	1	공부하면서 들으면 집중 안됨
+21	lee03	1	목소리 너무 좋다 
+21	user03	0	
+21	user6732	0	
+22	dlsgh	1	가사가 진짜 너무 미쳤어..
+22	kim96	0	
+22	lee03	1	가사는 슬픈데 노래는 신남
+22	soyoung	1	
+22	tjwns	0	
+23	gmlduf	0	
+23	kim82	1	이건 절대 못잊힐듯
+23	kim82	1	
+23	song	1	진짜 소름돋게 잘한다
+23	user05	0	
+23	user05	0	
+23	user6732	1	쓰담쓰담 해주는 노래
+23	wjdtn07	0	
+23	woo93	1	진심 최고다
+24	gmlduf	0	
+24	hong3	1	
+24	ji89	1	
+24	jisoo	1	가뭄의 단비 같은 노래
+24	user02	0	
+24	woo93	0	
+25	eun04	1	길가면서 흥얼거렸어요
+25	kim82	0	
+25	kim96	0	
+25	song	1	계속 흥얼거리게 된다
+25	user02	0	
+25	woo93	1	
+25	you06	1	
+26	dlsgh	1	혼자 이어폰끼고 들어야한다
+26	hong3	0	
+26	jin02	1	
+26	soyoung	1	길가다 중얼거리게 됨
+26	user05	0	
+26	user07	1	내가 왜 이제야 이 노래를 알게 됐을까..
+26	user08	0	
+26	youjin	0	
+27	fe91	0	
+27	hong3	0	
+27	hoon30	0	
+27	hun96	0	
+27	ji89	1	실화냐
+27	name96	0	
+27	user6732	1	
+27	wjdtn07	1	
+28	fe91	0	
+28	jisoo	0	
+28	kim82	0	
+28	kim96	1	들리면 춤출 듯
+28	tjwns	0	
+28	yena	0	
+29	hwang	1	
+29	kimsang	1	목소리 내 스탈…
+29	tpwns	1	첫소절 듣자마자 반해버린건 나뿐??
+29	wjdtn07	0	
+30	dlsgh	0	
+30	fe91	0	
+30	hoon30	1	덕질하게 만든 노래
+30	ji89	0	
+30	jin02	1	
+30	kim82	0	
+30	lee03	1	
+30	na97	1	
+30	tjwns	1	친구가 보고싶어지는 노래
+30	user02	0	
+30	user07	0	
+30	yena	1	
+31	hun96	1	
+31	ji89	1	
+31	tjwns	0	
+31	user05	1	반주랑 딱딱떨어져서 좋네요
+32	eun04	1	
+32	fe91	1	정수리까지 소름돋는 느낌
+32	kim96	1	멜론 1위 가즈아!
+32	soyoung	1	
+32	tpwns	1	
+32	user01	0	
+32	user06	0	
+32	user06	0	
+32	user08	1	띵.곡
+32	you06	1	중독성은 이 노래가 최강
+32	youjin	1	가사가 별로다
+33	hwang	1	비오는 날 듣기 좋다
+33	song	1	표절한거같은데
+33	user01	0	
+33	user08	1	난 오늘만 셀수 없이 들음
+33	wjdtn07	0	
+33	you06	1	
+33	zoo	1	
+34	dlsgh	0	
+34	hong3	0	
+34	kim96	0	
+34	kimsang	1	언제들어도 감미롭다
+34	na97	0	
+34	soyoung	1	불금에 달리는 노래
+34	tjwns	1	
+34	tjwns	0	
+34	user01	0	
+34	user02	0	
+34	user03	0	
+34	user08	1	
+34	woo93	0	
+34	youjin	1	
+35	hong3	0	
+35	hwang	0	
+35	user02	0	
+35	user04	1	
+35	user05	0	
+35	wjdtn07	1	최고에요
+35	woo93	1	여행갈때 들으면 딱일듯
+36	na97	0	
+36	name96	0	
+36	name96	0	
+36	rudgns	1	
+36	user03	1	
+36	user03	1	
+36	zoo	1	진짜 내가 너무 아끼고 너무 좋아하는 노래..
+36	zoo	0	
+37	jin02	0	
+37	jung00	0	
+37	kim96	1	노래 너무 좋은거 아니냐
+37	user01	1	여전히 좋은 노래.
+37	you06	1	아무말 할 필요없다
+37	you06	0	
+38	jin02	0	
+38	user01	1	
+38	user02	1	노래가 머리속에서 맴돌아요
+38	user07	0	
+38	user07	0	
+39	ji89	1	
+39	son12	0	
+40	dlsgh	0	
+40	eun04	1	이 노래 따라올 노래는 없을듯
+40	ji89	1	겨울에 듣기 좋은 노래
+40	jin02	1	
+40	jin02	0	
+40	kimsang	0	
+40	lee03	0	
+40	son12	1	잘때 매일 듣는 노래
+40	son12	1	
+40	song	1	미띤!
+40	user05	1	맨처음 부분 나오자마자 너무 신남 ㅋㅋㅋㅋㅋㅋ
+40	user07	0	
+40	user07	0	
+41	gmlduf	1	오래된 친구를 만난 느낌
+41	son12	0	
+41	user02	1	나의 삶의 원동력같은 노래
+41	user06	1	
+41	wjdtn07	0	
+41	you06	1	
+41	youjin	1	들으면서 자면 좋은 꿈을 꿀 것 같다
+41	zoo	1	힘이 되어주는 노래
+42	dlsgh	1	
+42	dong	0	
+42	dong	0	
+42	hong3	0	
+42	hun96	1	너무 많이 들어서 지겨워요 
+42	kimsang	1	부정적이게 된다
+42	user03	0	
+42	user07	1	나도 부르고 싶은데 목소리가.. 흑흑
+42	user07	1	
+42	user07	0	
+42	user6732	0	
+43	fe91	1	시험망쳤는데 조금 위로가되네요
+43	fe91	0	
+43	tjwns	1	박자가 잘안맞는듯
+43	user04	0	
+43	user04	0	
+43	user07	1	
+43	user6732	0	
+43	woo93	1	가사랑 노래 다 완전 참신하고 신선하다..
+44	dong	1	진심 최고…!
+44	hun96	0	
+44	na97	0	
+44	rudgns	0	
+44	user07	1	언제든 역주행 가능한 곡
+45	dong	0	
+45	jisoo	1	
+45	kimsang	1	
+45	rudgns	1	고음부분이 맘에들어요
+45	rudgns	0	
+45	user01	1	감탄사밖에 안나오네요
+45	user02	0	
+45	woo93	0	
+46	eun04	0	
+46	hwang	0	
+46	kimsang	0	
+46	son12	0	
+46	user04	1	포기하고싶어진다
+46	user07	1	
+46	user08	0	
+47	gmlduf	0	
+47	hong3	1	완전 내 이야기 노래로 만듬ㅠㅠ
+47	kimsang	0	
+47	song	0	
+47	user06	1	
+47	user6732	1	
+47	you06	1	밤새 들어본노래
+47	you06	0	
+48	fe91	0	
+48	son12	0	
+48	user03	1	황홀해진다
+48	user05	1	끝이 너무 마음에 들어서 몇 번씩 돌려 듣는 중
+48	youjin	0	
+49	dong	1	톡톡튀는 멜로디가 매력적이네요
+49	jin02	1	
+49	lee03	1	
+49	name96	0	
+49	name96	0	
+49	user02	1	
+49	user6732	1	해어진 사람에게 추천하는 노래
+49	zoo	0	
+50	hong3	0	
+50	hwang	1	노래 좋아요.
+50	hwang	0	
+50	lee03	0	
+50	tjwns	1	이 노래 들으면서 힐링중
+50	user02	1	
+50	woo93	0	
+50	zoo	0	
+51	dong	1	하루에 1번씩은 꼭 듣는 것 같아요 최고에요!
+51	hoon30	1	
+51	hun96	1	
+51	rudgns	0	
+51	tjwns	0	
+52	jin02	1	공부하다 들으러 왔는데 여기서 벗어나질 못하겠음..
+52	jin02	0	
+52	jin02	0	
+52	son12	0	
+52	tpwns	1	어릴적 추억노래
+52	you06	1	
+52	zoo	0	
+53	dlsgh	0	
+53	fe91	0	
+53	jung00	0	
+53	kim96	1	나 혼자만아는 노래
+53	tjwns	0	
+53	user02	1	
+53	user07	0	
+53	user08	0	
+53	wjdtn07	1	여기 중2병 널렸네
+54	fe91	1	나의 연애세포를 살려준 노래
+54	kim96	0	
+54	user02	0	
+55	gmlduf	0	
+55	hong3	0	
+55	hun96	0	
+55	rudgns	0	
+55	son12	0	
+55	tjwns	0	
+55	tpwns	1	
+55	user05	1	
+55	user08	0	
+55	user6732	1	위로받는 노래
+55	you06	0	
+55	youjin	0	
+55	youjin	0	
+56	hwang	1	
+56	jin02	1	ㄹㅇ띵곡
+56	jin02	1	목소리가 너무 좋아요
+56	kim96	0	
+56	lee03	1	
+56	name96	1	
+56	name96	0	
+56	song	0	
+56	soyoung	1	
+56	user06	1	얼굴값하시는듯
+57	hong3	0	
+58	ji89	0	
+58	kimsang	1	반주랑 잘안맞는듯
+58	son12	1	제일 좋아하는 곡중 하나
+58	wjdtn07	0	
+58	yena	1	노래방에서 부르기 딱 좋다
+58	youjin	0	
+59	hoon30	0	
+59	hwang	0	
+59	kim96	0	
+59	tpwns	1	
+59	user6732	0	
+59	woo93	0	
+60	dlsgh	0	
+60	dong	0	
+60	hwang	1	처음 전주만 듣고 딱 내 인생곡이라고 생각함
+60	jin02	1	난 이곡이 제일맘에듬
+60	jung00	1	10초 듣고 홀려버림
+60	jung00	1	그리워요
+60	rudgns	1	매번 가사를 잊어버림
+60	tjwns	1	
+60	user03	1	
+60	user03	0	
+60	user04	1	옛날 생각나서 너무 슬프다
+60	user6732	1	
+60	you06	0	
+60	youjin	0	
+60	youjin	0	
+60	youjin	0	
+61	hong3	1	
+61	kim82	0	
+61	kim82	0	
+61	user02	0	
+61	user08	0	
+61	you06	0	
+62	fe91	1	
+62	ji89	1	듣다가 반해버림
+62	kim96	1	Good job :)
+62	user04	0	
+62	user05	0	
+62	user07	0	
+62	wjdtn07	1	목소리에 반해버림
+62	you06	0	
+62	youjin	1	음색이 맑은 호수같아요!
+63	dlsgh	0	
+63	eun04	0	
+63	hwang	1	해가 질 때마다 듣는 노래임
+63	jisoo	1	시원한 느낌이다
+63	jung00	0	
+63	kim82	1	
+63	user05	1	
+63	user05	0	
+63	wjdtn07	0	
+63	yena	0	
+64	dong	0	
+64	gmlduf	1	목소리 실화냐
+64	hong3	1	
+64	kim82	1	내 얘기인줄
+64	soyoung	0	
+64	user06	0	
+64	user08	1	얼굴도 이쁘고 노래도 잘하고…
+64	user6732	1	
+64	wjdtn07	1	
+65	dong	0	
+65	hoon30	1	
+65	rudgns	1	개인적으로 가장 좋아하는 노래
+65	song	1	
+65	yena	1	
+66	dlsgh	1	
+66	fe91	0	
+66	hwang	1	
+66	jisoo	1	아무리 힘들어도 이 노래 하나면 충분할듯
+66	user01	0	
+66	yena	0	
+66	you06	1	Nice song!
+67	lee03	0	
+67	song	1	
+67	tpwns	0	
+67	tpwns	0	
+67	user04	1	이노래는 이사람말곤 못부른다. 커버가 불가능한 곡.
+67	woo93	1	노래가 너무좋아서 공부에 집중이 안되요
+67	yena	1	
+68	dlsgh	1	하루하루 살아가게 만드는 노래
+68	hwang	0	
+68	ji89	1	
+68	kim82	1	출근하는 길에 들어봤는데 너무 좋아서 지금도 듣는중
+68	wjdtn07	0	
+68	woo93	0	
+69	dlsgh	0	
+69	user01	0	
+70	dlsgh	0	
+70	eun04	1	
+70	youjin	1	좋아하는노래 1등
+70	youjin	0	
+71	dong	1	갑자기 팥빙수 먹고 싶어지는 노래
+71	eun04	0	
+71	kim96	0	
+71	kim96	0	
+71	name96	1	벅차오른다
+71	name96	1	이런 노래는 지금 들어도 질리지가 않네
+71	name96	1	직접 만나뵙고 싶네요
+71	son12	0	
+71	soyoung	0	
+71	user08	0	
+71	zoo	0	
+72	hun96	1	곡이 정말 좋아요! 특히 가사가..
+72	kim82	0	
+72	soyoung	0	
+72	user06	0	
+72	user07	1	
+72	zoo	1	
+73	jin02	0	
+73	kim82	0	
+73	kim82	0	
+73	kimsang	1	사랑을 하고싶어지는 노래
+73	lee03	1	가사 너무 맘에 들어..
+73	son12	0	
+73	user04	0	
+73	user06	0	
+73	yena	1	이노래 안질리고 너무 좋아요 잘 듣고 있어요!!
+73	yena	0	
+73	youjin	1	말이 필요없다
+74	na97	0	
+74	rudgns	0	
+74	song	1	
+74	wjdtn07	1	정말 공감되는 노래네요
+74	yena	1	
+74	you06	1	
+74	you06	0	
+74	you06	0	
+75	dong	1	노래 정말 좋음 특히 도입부 멜로디가 너무 좋다
+75	na97	0	
+75	soyoung	1	
+75	user04	1	무한반복해도 질리지 않는 노래입니다..
+75	user08	0	
+75	woo93	1	이별 해본적도 없는데 공감됨
+75	you06	1	
+75	zoo	0	
+76	gmlduf	0	
+76	ji89	1	이거 이어폰으로 들으면서 가면 너무 참기 힘듬… 춤추고 싶어짐 ㅋㅋㅋ
+76	jisoo	1	
+76	kimsang	1	
+76	na97	1	
+76	name96	1	
+76	name96	0	
+76	name96	0	
+76	son12	0	
+76	user04	0	
+76	user08	0	
+76	user6732	1	봄에 꼭 들리는 노래
+76	zoo	1	
+77	fe91	1	
+77	fe91	0	
+77	hong3	0	
+77	hoon30	1	길거리에서 이노래 나오면 너무 신나
+77	hoon30	0	
+77	jung00	0	
+77	kimsang	1	
+77	rudgns	1	노래가 너무 신나요 ㅋㅋㅋ
+77	user02	1	듣기 좋다
+77	user05	0	
+77	wjdtn07	1	이 곡 작사한분 좀 지리는듯
+78	hoon30	0	
+78	hun96	0	
+78	ji89	0	
+78	tjwns	0	
+78	user08	1	노래는 좋은데 가사가 별로다
+78	woo93	1	
+78	yena	1	이노래 우리 부모님께 들려드렸더니 나쁘지 않다네요
+79	eun04	1	
+79	hong3	0	
+79	ji89	0	
+79	ji89	0	
+79	kim96	1	
+79	song	1	Wow amazing!:)
+79	yena	1	뭐든 할 수 있을거 같다
+80	fe91	0	
+80	hwang	1	소재가 신선했다
+80	jisoo	1	이런 음악이 필요했다
+80	rudgns	0	
+80	tpwns	1	어떻게 저렇게 잘부르지…?
+80	tpwns	0	
+80	user03	1	가사가 좋아요ㅎ
+80	user04	0	
+80	user6732	1	흥이 솟구친다
+80	wjdtn07	1	
+81	dlsgh	0	
+81	hoon30	0	
+81	na97	1	재미난 가사가 좋다
+81	rudgns	1	
+81	tjwns	1	보통 노래 다운받고 잘 안듣는데 이건 계속 들어도 안질림 진짜 명곡인듯
+81	user05	1	매일 자기 직전에 꼭 한번씩 듣는 노래.
+81	woo93	0	
+81	woo93	0	
+82	dong	0	
+82	jisoo	1	
+82	jisoo	1	
+82	jung00	0	
+82	rudgns	1	
+82	woo93	0	
+82	yena	1	
+83	fe91	1	다신 안들을 것 같아요
+83	fe91	0	
+83	hoon30	1	내 최애곡1위
+83	hun96	0	
+83	jin02	1	마음이 아프다
+83	kim82	1	
+83	soyoung	0	
+83	tpwns	0	
+83	user02	0	
+83	yena	0	
+84	hoon30	1	진짜 어떻게 이런곡을 쓰지??
+84	ji89	0	
+84	user04	1	
+84	user07	0	
+84	youjin	1	들으면 들을수록 좋은 노래
+84	youjin	0	
+85	hwang	0	
+85	jisoo	1	진짜 최고다
+85	user03	1	길가다가 어디선가 들어봐서 찾아봤는데 이 노래였구나 ㅋㅋㅋ
+86	hoon30	0	
+86	jin02	0	
+86	kim82	0	
+86	kim96	0	
+86	user08	0	
+87	eun04	0	
+87	fe91	1	발음, 박자, 목소리 모든게 완벽한 노래
+87	hong3	0	
+87	hwang	1	안고싶다
+87	kim82	1	
+87	kimsang	0	
+87	son12	0	
+87	user04	1	힐링된다..
+87	user05	0	
+88	hoon30	0	
+88	jisoo	1	
+88	jisoo	0	
+88	kim82	1	앞으로도 좋은곡 많이 내주시길...!
+88	lee03	1	인생곡
+88	son12	1	들으면 들을수로 중독되
+88	user04	1	굿굿
+89	hoon30	1	
+89	jung00	0	
+89	lee03	1	이 곡은 더 알려져야 한다.. 노래 들으면서 울컥해본건 이노래가 처음이다
+89	name96	1	처진다..
+89	son12	1	울컥한다
+89	yena	1	하.. 요즘 생활이 힘든 중3입니다. 요즘 힘들어서 다 포기하고 싶었는데 이 노래 들으니 다시 힘이 나는것 같네요. 다들 힘냅시다!
+89	youjin	1	
+90	dlsgh	0	
+90	fe91	1	진짜 이 노래는 한 번도 안 들은 사람은 있어도 한 번만 들은 사람은 없을 듯
+90	ji89	1	
+90	jisoo	0	
+90	jung00	0	
+90	soyoung	1	이 노래 찾고있었는데 너무좋은듯
+91	dlsgh	0	
+91	jisoo	1	
+91	user6732	1	
+92	song	1	
+92	song	0	
+92	user03	1	친구들한테 추천해주고 싶다
+92	user05	0	
+92	user6732	1	
+93	fe91	1	
+93	hwang	0	
+93	hwang	0	
+93	jin02	1	혼란스럽다
+93	jin02	0	
+93	kimsang	0	
+93	son12	1	가사가 너무 와닿아요
+93	son12	0	
+93	song	0	
+93	tjwns	1	반주에서 부터 치였다
+93	user01	0	
+93	user02	0	
+93	zoo	0	
+94	gmlduf	1	이거 들으면서 월요병 치유하자
+94	hun96	1	
+94	jin02	1	이렇게 안질리기도 힘들겠다 ㅋㅋ
+94	jisoo	0	
+94	jung00	1	
+94	kim82	0	
+94	tjwns	1	한번듣고 빠짐
+94	user01	1	내가 제일 좋아하는 가수!
+94	user03	0	
+94	woo93	1	용기가난다
+94	zoo	0	
+95	hwang	1	감성 폭발하는 노래
+95	kim82	0	
+95	kim96	0	
+95	name96	0	
+95	rudgns	0	
+95	soyoung	1	녹아버릴거 같다
+95	yena	0	
+95	yena	0	
+95	youjin	1	
+95	zoo	0	
+96	dong	1	힘들때 들으면 좋다
+96	dong	1	예전 노래지만 다시 불러도 좋은곡
+96	jung00	1	노래 잘듣고 있습니다.
+96	name96	0	
+96	son12	0	
+96	tjwns	1	소름이 돋는다
+96	user03	0	
+96	user04	1	
+96	youjin	0	
+97	name96	1	아직도 좋은 노래
+97	soyoung	1	
+97	tjwns	1	
+97	tpwns	0	
+97	user02	1	3:33초 이부분 약간 옆집노래랑 비슷한거 같은데
+97	user08	0	
+98	eun04	0	
+98	hun96	0	
+98	hun96	0	
+98	rudgns	1	
+98	song	0	
+99	fe91	0	
+99	hoon30	0	
+99	kim96	0	
+99	wjdtn07	0	
+99	zoo	0	
+100	ji89	1	내가 제일 좋아하는 노래임.
+100	rudgns	0	
+100	wjdtn07	1	
+101	dlsgh	1	노래가 정신없어요
+101	dong	1	
+101	eun04	0	
+101	eun04	0	
+101	rudgns	1	파티할때 틀어놓기 좋은 노래
+101	soyoung	0	
+101	user05	1	알람으로 하기 딱 좋은 노래
+101	user05	1	
+101	user05	0	
+101	user05	0	
+101	wjdtn07	0	
+101	woo93	0	
+101	youjin	0	
+101	zoo	0	
+102	eun04	1	역주행 가자
+102	ji89	1	박자가 매끄럽고 감정이 너무 잘 표현됐다.
+102	jisoo	0	
+102	user05	1	집에서 빈둥대면서 듣는노래
+102	user06	1	아직 초반부분인데 벌써 좋은듯
+102	you06	1	공감이 안된다
+103	dlsgh	1	집중력 높여지는 기분
+103	jung00	0	
+103	song	1	song of legend
+103	song	1	
+103	song	0	
+103	song	0	
+103	soyoung	1	노래 잘하니까 얼굴도 잘생겨보이네..
+103	user6732	1	
+104	fe91	1	
+104	fe91	0	
+104	hun96	0	
+104	jin02	1	지나가다 듣고 찾아봄
+104	jung00	1	
+104	rudgns	1	목소리 너무 좋네요
+104	son12	0	
+104	soyoung	0	
+104	user01	1	
+104	user6732	0	
+105	dlsgh	1	클럽가면 나올법한 노래
+105	jisoo	1	반주랑 음이 안맞는다
+106	dlsgh	1	별로임
+106	jisoo	1	이 노래 다운로드 링크좀 주세요
+106	kim96	0	
+106	na97	0	
+106	soyoung	1	
+106	user04	0	
+106	user6732	0	
+107	dong	0	
+107	dong	0	
+107	hwang	1	감각적인 노래
+107	soyoung	0	
+107	user06	1	이거 어제 친구랑 같이 불렀는뎈ㅋㅋ
+107	user6732	1	와 고음 미쳤다..
+108	dlsgh	0	
+108	dong	1	This song is best!
+108	fe91	1	
+108	hwang	1	친구꺼 듣고 반했어요
+108	ji89	0	
+108	kim96	0	
+108	son12	0	
+108	soyoung	1	최고ㅎㅎ
+108	user06	1	어렸때 부르고 다닌 노래
+108	woo93	1	멜로디가 별로다
+108	zoo	0	
+109	fe91	1	창법이 독특해서 매력이있는듯
+109	jung00	1	목소리에 끌려서 매일 듣는 노래
+109	na97	1	별로인데…..
+109	soyoung	0	
+109	tjwns	1	
+109	user03	1	아침마다 듣는 노래
+109	user08	1	수능금지곡 1위;
+109	user08	0	
+109	zoo	1	
+110	hong3	0	
+110	user01	0	
+110	user06	0	
+110	user07	1	노래 좋아서 다운 받음
+110	user08	0	
+110	youjin	0	
+110	youjin	0	
+111	jisoo	0	
+111	lee03	1	
+111	lee03	1	
+111	son12	0	
+112	dong	1	희망이없다
+112	soyoung	0	
+112	user07	0	
+112	you06	0	
+113	kimsang	1	노래 떡상가자
+113	son12	1	예술은 노래에서 피어난다..
+113	song	0	
+113	tjwns	1	지겨울정도로 들었어요
+113	user6732	0	
+113	you06	1	저절로 따라하게 됨
+114	hwang	0	
+114	user04	1	한국인이에요?? 헐 대박
+115	lee03	0	
+115	rudgns	0	
+115	son12	0	
+115	user04	0	
+115	woo93	1	
+116	dlsgh	1	사랑에 힘들었어도 다시 사랑하던 그 시절이 생각나는 노래
+116	hong3	1	
+116	hoon30	1	
+116	user01	1	들으면 들을수록 좋은 노래..ㅠㅠㅠ
+116	user02	1	개인적으로 올해 최고의 노래인 것 같네요.
+116	user02	0	
+116	wjdtn07	1	
+116	yena	1	항상 믿고 듣는 노래
+117	fe91	1	
+117	soyoung	0	
+117	soyoung	0	
+117	user03	0	
+117	user08	0	
+117	wjdtn07	0	
+118	eun04	0	
+118	ji89	1	차트1위 노래는 역시 다르다
+118	tjwns	0	
+118	tpwns	0	
+118	user02	0	
+118	user06	1	
+119	hoon30	1	너무 흥겹네요
+119	hun96	1	하이라이트 부분에서 반했다
+119	jung00	1	
+119	kim96	1	빠져드는 목소리
+119	kimsang	0	
+119	soyoung	0	
+119	user03	1	
+120	eun04	1	
+120	eun04	0	
+120	jisoo	0	
+120	kim96	1	
+120	rudgns	0	
+120	user01	0	
+120	user06	0	
+120	user08	0	
+120	woo93	0	
+120	yena	0	
+120	yena	0	
+120	youjin	1	학교 점심시간에 들었는데 좋아서 들으러 오다 댓글 적음 ㅋㅋ
+120	zoo	1	이런게 진짜 노래가 아닌가싶다. 감동이다
+121	hong3	1	초반엔 잠잠하다가 중간에 고음지를때 소름이 막;;
+121	jin02	0	
+121	kim96	1	
+121	rudgns	1	
+121	tpwns	1	지루할 틈 없이 신박함
+121	user01	0	
+121	user03	1	좋아요
+121	user07	0	
+121	wjdtn07	0	
+121	youjin	0	
+122	ji89	0	
+122	kimsang	1	
+122	kimsang	0	
+122	na97	1	슬픈날 듣기 좋다
+122	rudgns	1	여할갈때 들으면 딱일듯
+122	user04	1	
+122	user05	1	조회수 100만 가즈아!!!
+122	user05	0	
+122	user06	0	
+122	user08	1	듣기 편해서 괜찮다
+123	gmlduf	0	
+123	hoon30	0	
+123	jin02	1	작곡가가 천재인듯
+123	kimsang	0	
+123	tpwns	0	
+123	user01	1	친구가 너무좋다고 소개해줬어요
+123	user02	0	
+123	user06	0	
+123	user06	0	
+123	youjin	1	차트에 없는게 신기할 정도
+124	fe91	0	
+124	kim82	1	
+124	kim82	0	
+124	kimsang	1	보컬 목소리 너무 듣기 편안함..
+124	tpwns	0	
+124	user03	1	
+124	user03	0	
+124	wjdtn07	0	
+124	yena	1	
+125	hong3	0	
+125	ji89	0	
+125	jin02	1	
+125	soyoung	1	
+125	user05	0	
+125	user05	0	
+125	user06	0	
+126	gmlduf	0	
+126	hun96	1	아무것도하기싫을때 듣기 좋은 노래
+126	hwang	1	
+126	name96	1	
+126	user01	1	
+126	woo93	1	너무 좋다
+127	eun04	0	
+127	gmlduf	1	가을에 듣기 좋은 노래
+127	tpwns	0	
+127	user06	0	
+127	user07	0	
+128	fe91	0	
+128	gmlduf	1	넘나 좋은것
+128	kimsang	0	
+128	lee03	0	
+128	soyoung	0	
+128	user05	0	
+128	user08	0	
+129	kim82	1	들으면 웅장한 드라마 장면이 생각나서 소름 돋음
+129	tpwns	1	이노래 찾다가 1시간걸린듯…
+129	user06	0	
+130	fe91	0	
+130	ji89	1	이 사람 노래는 다좋음
+130	ji89	0	
+130	user03	1	
+130	wjdtn07	0	
+131	dlsgh	0	
+131	fe91	1	
+131	hwang	0	
+131	jung00	1	으악ㅠㅠ 진짜 노래 넘 좋아요
+131	kim96	1	This song is very cool! :)
+131	tjwns	0	
+131	tpwns	1	
+131	tpwns	0	
+131	user01	1	멋져요
+131	user04	1	이건 부족한게없다
+131	user04	0	
+131	user05	0	
+131	woo93	0	
+131	you06	0	
+131	zoo	1	
+132	dong	1	너무 시끄럽다
+132	hong3	1	듣기 편안해요
+132	jung00	0	
+132	song	1	
+132	user01	0	
+132	user04	1	이건 노래계의 전설이다
+132	user07	1	최건우
+132	user07	0	
+133	dong	0	
+133	hong3	1	이 노래 다른 곡에 가려져서 잘 몰랐는데 가사가 너무 좋다..
+133	user08	0	
+133	woo93	1	목소리 너무좋다
+133	woo93	1	외모와 목소리둘다 최고에요
+134	hoon30	1	
+134	hun96	1	
+134	kim82	0	
+134	song	1	내 취향
+134	user06	1	우울할때 들으면 기분좋을듯
+134	yena	1	
+135	dong	1	
+135	rudgns	0	
+135	song	1	
+135	song	0	
+135	tjwns	0	
+136	gmlduf	0	
+136	hun96	0	
+136	hwang	0	
+136	jin02	0	
+136	jung00	0	
+136	son12	1	
+136	user02	1	
+136	user07	0	
+136	zoo	0	
+137	eun04	1	
+137	gmlduf	0	
+137	hun96	1	
+137	hwang	1	갠적으로 이게 젤 좋은듯
+137	ji89	0	
+137	kim82	1	
+137	user03	0	
+137	wjdtn07	1	뒤늦게 알게된 곡이라 더 많이 듣게 되는듯
+138	dong	0	
+138	dong	0	
+138	gmlduf	0	
+138	hong3	1	헤어지고싶다
+138	jung00	1	노래일뿐이지만 나의 감정을 뒤흔들어 놓는것은 왜일까..
+138	kim82	1	어떻게 별로인 노래가 하나도없지?
+138	na97	0	
+138	tjwns	0	
+138	user04	0	
+138	user06	1	
+138	wjdtn07	0	
+139	dong	1	
+139	hong3	1	시끄럽다
+139	hwang	0	
+139	jisoo	1	
+139	user08	0	
+139	woo93	0	
+139	youjin	1	이상해지는거 같아요
+140	soyoung	1	
+140	tpwns	1	
+140	user02	1	
+141	fe91	1	예전노래지만 다시불러도좋은곡
+141	gmlduf	0	
+141	hun96	0	
+141	kim96	1	
+141	kimsang	0	
+141	rudgns	0	
+141	rudgns	0	
+141	tpwns	0	
+141	user03	0	
+142	gmlduf	1	
+142	rudgns	0	
+142	user04	0	
+142	wjdtn07	1	금방 질린다
+142	zoo	1	반주 너무 길다
+143	fe91	0	
+143	jin02	1	
+143	jin02	0	
+143	user08	1	언제나 들어도 질리지가 않는듯
+143	woo93	0	
+143	zoo	0	
+144	dlsgh	1	이 노래를 듣고 이 가수한테 빠지게 됨
+144	fe91	1	
+144	jisoo	1	목소리가 좋다
+144	kimsang	1	차분해지는 노래
+144	song	0	
+144	soyoung	0	
+144	user01	0	
+144	user06	1	
+145	jin02	0	
+145	jin02	0	
+145	jung00	0	
+145	kim82	0	
+145	kim96	0	
+146	dlsgh	0	
+146	fe91	0	
+146	jisoo	1	무거운 노래…
+146	name96	0	
+146	son12	1	다음 앨범이 너무 기대되는 노래
+146	son12	1	죽을때까지 들을 노래
+146	soyoung	1	사랑하고싶어진다
+146	soyoung	0	
+146	tjwns	1	이 노래만 계속 듣고있네요ㅎ
+146	user01	1	
+146	user04	0	
+146	yena	1	가사랑 악기가 잘 어울린다
+147	lee03	0	
+147	na97	0	
+147	tpwns	1	
+147	user04	1	
+147	woo93	0	
+147	yena	0	
+148	jung00	1	
+148	user02	0	
+148	user06	1	
+148	user6732	1	
+148	woo93	1	모든 장르를 느낄 수 있는 곡
+148	woo93	1	
+148	you06	1	곡 진짜 잘 뽑은듯!
+149	hong3	1	
+149	jisoo	0	
+149	na97	0	
+149	tjwns	1	
+149	user01	1	목소리가 취저..
+149	user01	1	
+149	user03	1	
+149	user06	1	이렇게 상쾌한노래가 있다니…
+149	user6732	0	
+149	wjdtn07	0	
+150	dlsgh	0	
+150	dlsgh	0	
+150	dong	1	음색이 너무 좋아
+150	fe91	1	노래가 정말 고급지다. 가사랑 비트도 다 세련됐어
+150	fe91	0	
+150	hoon30	1	레알 띵곡이네
+150	hun96	0	
+150	jung00	1	
+150	lee03	1	제가 제일좋아하는곡!
+150	user04	1	
+150	you06	0	
+151	dlsgh	1	
+151	jisoo	1	이 노래 안들어본 사람이 있나?
+151	user05	1	이 노래 듣고 하루를 시작하면 좋은듯
+151	user06	1	
+151	zoo	1	여행하는 기분이다
+152	hwang	1	
+152	jin02	0	
+152	son12	0	
+152	song	0	
+152	tjwns	0	
+152	user03	0	
+152	wjdtn07	1	
+153	eun04	0	
+153	ji89	0	
+153	jin02	1	세련된 감각과 음악센스가 좋은 분위기의 노래
+153	lee03	1	
+153	user03	0	
+153	user04	0	
+153	yena	0	
+154	jisoo	1	화음이 되게좋아요
+154	kimsang	0	
+154	tjwns	1	
+154	woo93	0	
+154	you06	0	
+155	jisoo	1	이노래 너무 좋잖아
+155	rudgns	1	
+155	user06	0	
+155	youjin	1	
+155	zoo	1	
+156	dong	0	
+156	hwang	0	
+156	jin02	1	들을수록 더 좋아지는 노래임
+156	jisoo	0	
+156	jisoo	0	
+156	song	0	
+156	tpwns	1	
+156	user01	1	
+156	user08	0	
+156	zoo	0	
+157	dlsgh	1	사랑해요!!
+157	dong	0	
+157	hwang	0	
+157	ji89	0	
+157	na97	1	
+157	na97	1	
+157	user01	1	거의 수능금지곡…
+157	user01	0	
+157	woo93	0	
+157	you06	0	
+157	youjin	1	듣기만 해도 시원하다
+157	zoo	0	
+158	eun04	1	나만 이 노래 나오면 흥부자 되냐? ㅋㅋ
+158	jin02	1	
+158	user01	0	
+158	user03	1	마음이 편안해지네요
+159	dlsgh	1	awesome :)
+159	dong	1	바다 가고 싶게 만드는 노래다
+159	ji89	1	발라드 최고
+159	rudgns	1	
+159	you06	0	
+160	dlsgh	1	특유의 찌질한 감성이 남자들 마음을 사로잡음
+160	dlsgh	1	게임하면서 들으면 좋을거 같다
+160	gmlduf	1	
+160	hoon30	0	
+160	hun96	0	
+160	hwang	0	
+160	lee03	0	
+160	na97	1	너무 잘부른다
+160	name96	0	
+160	rudgns	0	
+160	yena	0	
+161	eun04	0	
+161	fe91	0	
+161	hoon30	0	
+161	jisoo	0	
+161	jung00	0	
+161	name96	0	
+161	song	1	길 지나다니면 이노래 계속 나옴 ㅋㅋ
+161	tpwns	0	
+161	user03	1	응원합니다!
+161	user07	1	
+161	user6732	1	노래가 짠하네요ㅜ
+161	zoo	1	
+162	kimsang	0	
+162	user01	0	
+162	user03	0	
+162	user04	0	
+162	you06	0	
+163	hoon30	0	
+163	jin02	1	가사 해석해보면 소름
+163	kim82	1	
+163	lee03	0	
+163	soyoung	0	
+163	user08	0	
+163	yena	0	
+164	dong	0	
+164	ji89	1	학교 끝나고 집갈때 듣는 노래
+164	user02	1	여행 가고싶을때나 쉬고 싶을때 자주 듣는 노래
+164	user07	0	
+165	hong3	1	나이는 들어도 노래는 변하지 않는다.
+165	ji89	1	이제 헤어나올수 없어…
+165	kim96	0	
+165	na97	1	감탄만 나오는 노래
+165	na97	0	
+165	tpwns	0	
+165	youjin	1	
+165	youjin	0	
+166	user06	0	
+166	wjdtn07	1	
+167	rudgns	1	
+167	user02	0	
+167	user07	0	
+167	wjdtn07	1	좋구나..
+167	yena	0	
+168	dong	0	
+168	fe91	1	룰루랄라
+168	gmlduf	0	
+168	hong3	1	따라부르다가 목쉬었어요
+168	lee03	0	
+168	soyoung	0	
+168	yena	1	울 애가 좋아해요
+168	youjin	0	
+169	jung00	0	
+169	lee03	0	
+169	son12	0	
+169	tjwns	0	
+169	yena	1	목소리가 너무 좋아여
+169	you06	0	
+170	dong	1	친구들끼리 부르고다님
+170	woo93	1	가음이 먹먹하다
+170	zoo	1	
+171	hun96	1	이 노래만 무한반복 중
+171	hwang	0	
+171	jin02	0	
+171	kim82	1	이 노래가 나온 시기에 살아서 행복할 정도로 좋다
+171	rudgns	0	
+171	song	1	트로트 너무좋아요
+171	tjwns	0	
+171	user03	0	
+171	user06	1	이런 느낌의 노래 너무 좋다.
+171	user6732	0	
+171	woo93	0	
+172	jisoo	0	
+172	kim82	0	
+172	kim82	0	
+172	kimsang	0	
+172	user03	0	
+172	you06	1	감정이입 최고다
+173	hun96	0	
+173	kimsang	0	
+173	rudgns	0	
+173	tpwns	0	
+173	user04	0	
+174	gmlduf	1	흥분된다
+174	hong3	0	
+174	jisoo	1	
+174	name96	0	
+174	user02	0	
+174	zoo	0	
+175	gmlduf	0	
+175	jin02	1	게임 할때마다 틀어 놓고 게임중
+175	na97	0	
+175	user02	0	
+176	eun04	1	
+176	kim82	1	너무 흔한느낌?
+176	na97	0	
+176	user04	1	친구가 매일 들려줌
+176	user05	0	
+176	user08	0	
+176	user6732	0	
+176	wjdtn07	1	
+176	wjdtn07	0	
+177	dlsgh	0	
+177	eun04	0	
+177	hwang	0	
+177	jin02	1	이노래 진짜 너무 좋은데 왜 안유명한지 모르겠다..
+177	kim96	0	
+177	kim96	0	
+177	kimsang	1	잘 듣고 있습니다
+177	son12	1	들으면 자동으로 춤추게 되는 곡
+177	user02	0	
+177	user08	1	이거 뭔 노랜지 한달정도 궁금했었는데 찾았네요 ㅎㅎ
+178	hoon30	1	혼자 듣기 아까운 곡
+178	hoon30	0	
+178	hun96	1	짝사랑하는 사람에게 추천
+178	hun96	0	
+178	hwang	0	
+178	jung00	1	지난 추억을 되새기는 노래
+178	kim96	1	왜 노래를 들었을뿐인데 소름이 돋았지?
+178	kim96	1	from japan
+178	lee03	0	
+178	soyoung	0	
+178	tjwns	1	
+178	user06	1	비 올 때  생각나는 노래
+178	user06	0	
+178	woo93	0	
+178	yena	1	
+178	you06	1	귀가 있다면 이노래는 명곡으로 인정해야 한다.
+179	hong3	1	노래가 너무 깔끔해요
+179	hong3	0	
+179	hwang	1	
+179	rudgns	1	
+179	user02	0	
+179	user05	1	작곡한 사람 대단하다
+179	user6732	1	신날때 듣기 좋은 노래
+179	you06	0	
+179	youjin	0	
+180	hwang	0	
+180	ji89	0	
+180	jin02	0	
+180	name96	1	내 인생에서 가장 좋아하는 아티스트
+180	son12	0	
+180	soyoung	1	지친다
+180	tjwns	1	퇴근길 노래리스트 추가요~~
+180	user05	1	곡 의외로 너무 좋다
+181	fe91	1	이 노래는 한파트 한파트 모두가 킬링파트네
+181	gmlduf	0	
+181	tpwns	1	친구랑 같이 들어봤는데 노래가 너무 좋아요
+181	user04	0	
+181	youjin	0	
+182	dlsgh	1	기분 좋을때 자동으로 흥얼흥얼 나오는 노래.. 진짜 좋음 이노래
+182	hoon30	0	
+182	jin02	1	노래가 슬퍼요
+182	na97	0	
+182	user01	1	힘든 하루를 끝마치는 노래
+182	user04	0	
+182	wjdtn07	0	
+183	fe91	1	노래 너무 좋다
+183	gmlduf	1	멜로디가 약간 옛날느낌?
+183	gmlduf	1	일하면서 듣고 있어요
+183	ji89	1	
+183	kim96	1	뭔가 독서할때 깔리는 bgm느낌
+183	rudgns	1	내 최애곡 1위
+184	dlsgh	1	
+184	fe91	0	
+184	gmlduf	1	가사가 정말 좋네요.
+184	gmlduf	1	
+184	hong3	0	
+184	hoon30	1	와 노래 진짜 좋다.. 이곡만 반복재생중
+184	hoon30	1	
+184	kim96	1	여러분 듣지 마세요 한번 들으면 헤어나올수가 없어요..;
+184	son12	0	
+184	tpwns	1	
+184	user01	1	너무 슬프다
+184	user03	1	
+184	user07	1	가수 음색이 진짜 최고임.
+185	eun04	0	
+185	gmlduf	1	오늘만 7번째 듣는중
+185	hoon30	1	명곡이 하나 생겨나네요
+185	kim82	1	
+185	kim82	0	
+185	kim96	1	
+185	song	0	
+185	song	0	
+185	user05	0	
+185	user6732	0	
+185	zoo	1	어느 시간 때든 감성이 살아나는 듯
+186	kim82	1	기능하면서 듣기 좋다
+186	rudgns	1	
+186	user01	0	
+186	user02	0	
+186	user05	0	
+186	user06	1	
+187	lee03	1	지나가다 들었는데 노래 끝날 때까지 가만히 서서 들음
+187	na97	1	
+187	tpwns	0	
+187	user04	0	
+187	woo93	1	원하는게 없을 정도로 좋다
+188	dong	0	
+188	kim82	1	천사가 부르는줄
+188	rudgns	0	
+188	soyoung	1	우울해진다
+188	user04	0	
+188	user04	0	
+188	user07	1	보고싶어지는 사람이 생각난다
+188	wjdtn07	1	이거 무한반복 듣는중 ㅋㅋ 노래 진짜 좋네
+189	dong	1	
+189	soyoung	1	
+190	ji89	0	
+190	jisoo	0	
+190	na97	0	
+190	soyoung	0	
+190	tjwns	0	
+190	tjwns	0	
+190	user08	0	
+190	woo93	1	
+191	hwang	1	우리반에서 매일 듣는중
+191	ji89	0	
+191	kim96	1	들은지 한참됐는데 아직도 듣는중ㅎㅎ
+191	user05	1	
+191	user05	0	
+191	zoo	1	와 노래 너무 좋아서 놀람
+192	dong	1	노래 자체가 예쁨
+192	user01	1	셤 공부하면서 들었는데 공부하고 나니까 머릿속에 남는건 이 노래뿐..
+192	user02	1	내 눈에서 왜 땀이…
+192	user07	1	노래방에서 부르기 좋은 노래
+193	dlsgh	0	
+193	jin02	1	발라드의 정석이다
+193	jisoo	0	
+193	lee03	1	
+193	tpwns	0	
+193	user07	1	어디서 많이 들어본 노래
+193	wjdtn07	0	
+194	gmlduf	1	
+194	kimsang	1	
+194	lee03	0	
+194	song	0	
+194	user08	0	
+194	you06	1	
+195	hwang	1	이정도 들었으면 질릴 만 한데 아직도 안질리고 들을때마다 새로운 노래
+195	hwang	0	
+195	jisoo	0	
+195	son12	1	
+195	song	0	
+195	user01	1	
+195	user05	1	윗분 정상입니다.
+195	user05	1	
+195	wjdtn07	0	
+196	eun04	0	
+196	lee03	1	출퇴근 길에 들으며 힘내요
+196	rudgns	1	믿고들읍시다
+196	you06	1	
+197	hun96	1	
+197	hun96	0	
+197	na97	1	
+197	tjwns	1	이 가수 노래중에서 처음으로 좋다고 느꼈음
+197	tjwns	0	
+197	user03	1	
+197	user08	1	이거만한 노래가 또 있을까.. 잘듣고 있어요~
+197	user6732	1	Fan fron france.
+197	wjdtn07	1	목소리 진짜 좋다
+198	hong3	0	
+198	hong3	0	
+198	hwang	1	우울할 때 들으면 딱일 노래
+198	song	1	2명이 듣다 한명이 죽어도 모를 이 노래
+198	tpwns	1	잔잔하면서 듣기 좋은 음색이다
+198	user02	1	
+198	yena	0	
+199	dlsgh	0	
+199	fe91	0	
+199	fe91	0	
+199	gmlduf	1	
+199	lee03	1	지하철안에서 듣다가 나도 모르게 흥얼거려서 쪽팔렸음..ㅋㅋ
+199	na97	1	
+199	na97	1	
+199	name96	1	퇴근하면서 매일듣는노래
+199	name96	1	역대급이야
+199	name96	0	
+199	rudgns	0	
+199	wjdtn07	1	이거보다 좋을 수가 없다!
+199	wjdtn07	1	목소리 굿
+199	you06	1	
+199	zoo	0	
+200	jung00	1	
+200	jung00	0	
+200	son12	0	
+200	soyoung	0	
+200	user02	1	와 진짜 사랑해요
+200	user6732	1	
+200	user6732	0	
+200	you06	0	
+200	youjin	0	
+200	zoo	0	
+201	dong	0	
+201	hong3	0	
+201	hoon30	1	
+201	kimsang	0	
+201	tpwns	0	
+201	zoo	0	
+202	dong	0	
+202	hun96	0	
+202	user03	1	우연히 들었는데 진짜 좋긴하다 어느새 머릿속에 가끔씩 자동재생됨 ㅋㅋ
+202	user08	1	놀때 틀면 최고일거같아요
+203	jin02	0	
+203	tpwns	1	
+203	user06	1	이번년도 최고의 곡
+203	user6732	0	
+203	you06	0	
+204	eun04	1	달달하다
+204	jisoo	0	
+204	name96	1	
+204	rudgns	1	피곤하다
+204	user07	0	
+205	fe91	1	점점 노래가 좋아지는거같아요
+205	hoon30	1	
+205	kim82	0	
+205	kim96	0	
+205	na97	1	
+205	rudgns	0	
+205	song	0	
+205	song	0	
+205	yena	0	
+206	dlsgh	0	
+206	gmlduf	0	
+206	hong3	1	
+206	hwang	0	
+206	jisoo	1	
+206	jisoo	0	
+206	kimsang	0	
+206	user02	0	
+206	user03	0	
+206	user04	1	
+206	user04	0	
+206	wjdtn07	0	
+207	ji89	1	
+207	jin02	0	
+207	jisoo	0	
+207	tpwns	0	
+207	user02	1	분위기 잡기 좋은 곡
+207	user07	0	
+207	user08	1	뭔가 좋긴한데 내 스타일은 아닌듯
+207	woo93	1	
+208	fe91	0	
+208	gmlduf	1	이 가수 팬도 아닌데 이 노래 들을 때마다 너무 좋은 것 같다
+208	jisoo	0	
+208	jung00	0	
+208	kimsang	1	
+208	user05	1	
+208	user05	1	
+208	user06	0	
+208	user07	1	이런 노래 들려주셔서 감사합니다.
+208	yena	0	
+208	you06	0	
+208	zoo	1	동요같이 부르기 쉬워 흥얼거리는 노래
+208	zoo	1	
+209	dong	0	
+209	eun04	1	희망을 가지게된다
+209	jisoo	1	
+209	kim82	1	
+209	tjwns	0	
+209	tpwns	1	시원하다
+209	woo93	0	
+209	zoo	0	
+210	hong3	1	항상 변함없이 명곡을 내주는게 너무 좋다
+210	hong3	1	어느 순간 중얼거리고 있다
+210	jin02	1	지금까지 몇번을 들었는지도 모르겠다. 계속 듣게됨
+210	kim82	0	
+210	tpwns	1	
+210	user05	0	
+210	user08	1	
+210	wjdtn07	0	
+211	gmlduf	0	
+211	ji89	0	
+211	jin02	1	
+211	jung00	1	
+211	lee03	1	
+211	zoo	1	피시방에서 게임 안하고 이 노래 들었다
+212	hun96	1	내 취향은 아닌 듯 하네요
+212	ji89	1	처음엔 그냥 그랬는데 계쏙 흥얼흥얼 거리게 되네
+212	lee03	1	
+212	user02	1	듣기 너무 좋아요
+212	user07	1	이집트인 입니다. 
+213	gmlduf	1	그리울때 들으면 와닿을듯
+213	hong3	0	
+213	hun96	1	노래방에서 좀 안 불렀으면 좋겠다
+213	song	1	가수도 가수지만 이번에는 레전드인듯
+213	user05	0	
+213	user05	0	
+213	user08	1	가수 음색이랑 딱 맞춰서 나온 노래 같다
+214	gmlduf	1	화가난다
+214	jisoo	1	
+214	jung00	1	여러분 1시간째 이노래만 듣고 있는데 정상맞죠?
+214	son12	0	
+214	user03	1	
+214	user6732	1	여름에 듣기 좋은 노래
+215	gmlduf	0	
+215	ji89	1	지금 계절과 딱 어울리는 노래다
+215	jin02	1	왜 흥한건지 모르겠다
+215	jung00	0	
+215	lee03	0	
+215	song	0	
+215	user01	1	
+215	user03	1	추억의 노래
+215	user06	0	
+215	woo93	1	심장이 떨린다
+216	dlsgh	0	
+216	jisoo	1	이분 노래별로
+216	soyoung	1	
+216	user01	1	다음곡도 기대해요
+216	user03	0	
+216	user06	1	
+216	user07	1	
+217	dlsgh	0	
+217	jisoo	0	
+217	kim96	1	
+217	rudgns	0	
+217	soyoung	1	외모\에다 목소리에다 노래실력까지.. 이건 반칙아닙니까
+217	user01	0	
+217	user6732	0	
+217	yena	0	
+217	youjin	1	존경합니다 그리고 사랑합니다
+217	zoo	1	
+218	hun96	0	
+218	lee03	1	집가는 길에 한번 듣고 한참 찾았어요
+218	name96	1	노래방가서 부르기 좋을거 같네요
+218	user01	0	
+218	user03	0	
+219	kimsang	0	
+219	lee03	0	
+219	na97	0	
+219	rudgns	1	어떤 상황에도 잘 어울리는 노래
+219	user05	0	
+219	user06	1	
+219	user08	1	
+219	user6732	0	
+219	woo93	0	
+219	yena	1	친구들사이에서 유명한노래
+219	zoo	1	와 진짜 너무좋아요 이노래..bb
+220	hong3	0	
+220	hoon30	1	뭔가 먹고싶어진다
+220	hoon30	0	
+220	jin02	0	
+220	user01	1	
+220	user03	0	
+220	user04	1	한번듣고 반해버림
+220	zoo	0	
+221	dlsgh	1	머리 한대 맞은거 같아요
+221	gmlduf	1	
+221	gmlduf	0	
+221	na97	1	
+221	user01	1	오늘부터 입덕했습니다..
+222	song	1	
+222	tjwns	0	
+223	hun96	0	
+223	kimsang	1	반주가 너무 엉성해요
+223	tjwns	1	
+223	user03	1	
+223	user6732	0	
+223	youjin	1	
+224	ji89	0	
+224	na97	1	이거 들으면 공부 못함
+224	user07	1	노래가 부드럽다
+224	user08	1	
+224	user08	1	
+224	you06	1	확실한 본인들의 색깔이 있어서 좋은듯
+224	you06	0	
+225	jung00	0	
+225	na97	1	내 취향은 아닌듯
+225	user03	0	
+225	user05	1	
+225	yena	1	이 노래를 이제 알다니… 너무 후회된다
+226	dlsgh	1	역시 가요계의 레전드
+226	dong	0	
+226	gmlduf	1	이 노래만 들으면 어릴 때 생각이 나네
+226	hoon30	0	
+226	hun96	1	아침 버스에서 이어폰 끼고 듣는 노래
+226	jisoo	0	
+226	name96	0	
+226	rudgns	0	
+226	tjwns	0	
+226	user02	1	이 노래 만든사람 진짜 돈방석 앉을듯.
+226	user07	0	
+226	you06	0	
+227	eun04	0	
+227	gmlduf	1	클럽에서 틀 것 같이 신나는 노래
+227	gmlduf	0	
+227	kim82	0	
+227	kim96	0	
+227	son12	1	새벽감성 충만해지는 노래
+227	son12	1	집중을 방해한다
+227	user02	0	
+227	user07	1	
+228	dong	1	난 아직까지 계속 무한반복중 ㅋㅋ
+228	hwang	0	
+228	soyoung	0	
+228	tpwns	0	
+228	user01	1	
+228	user6732	0	
+228	woo93	1	가사가 귀에 안들어온다
+228	you06	1	
+229	na97	0	
+229	user05	1	뭔가 부족하다
+229	woo93	1	외롭다
+230	hun96	1	사귀던애랑 헤어졌는데 위로가 되네요
+230	hwang	1	졸릴 때 이 노래 들으면 잠 다 깸
+230	lee03	1	가슴이 먹먹하네요
+230	na97	1	아직도 듣는 명곡.. 너무 좋다
+230	rudgns	0	
+230	son12	1	길가다가 이 노래 나오면 자동으로 따라부름 ㅋㅋ
+230	son12	0	
+230	user01	1	스트레스가 해소되는거 같아요
+230	user04	1	
+230	user06	1	
+230	user08	1	노래 최고다
+230	woo93	0	
+230	youjin	1	최고 
+231	dlsgh	1	
+231	dong	1	
+231	jisoo	1	이 노래만 듣고 있어요
+231	kimsang	1	
+231	kimsang	1	
+231	son12	0	
+231	user03	1	
+231	user07	0	
+231	you06	1	우연히 알게된 노래, 한번 듣고 계속 듣게되는..
+232	dlsgh	1	요즘 학원갖다오면 맨날 이 노래만 들어요
+232	eun04	0	
+232	jung00	0	
+232	kim82	1	
+232	kim96	1	록음악 최고
+232	son12	1	날 붇잡는 거 같다
+232	tpwns	1	비오는 날 잘 어울리는 곡
+232	tpwns	1	
+233	dong	1	부르는게 어색함
+233	dong	1	
+233	lee03	0	
+233	user02	1	비트가 너무 좋네요
+233	user03	0	
+233	user04	0	
+233	user05	1	밤마다 듣는다
+233	youjin	0	
+234	eun04	1	
+234	fe91	0	
+234	gmlduf	1	
+234	jung00	1	너무 신나요
+234	jung00	0	
+234	son12	1	노래 듣는 순간 얼어붙었다
+234	tjwns	1	이런 컨셉도 장난 아니네..
+234	user03	0	
+234	user03	0	
+234	user07	0	
+234	yena	1	잔잔해서 좋아
+235	hong3	1	목소리 너무 좋아
+235	kim96	1	노래가 참 좋아요 감사합니다
+235	na97	0	
+235	son12	1	댄스가 생각나는 곡
+235	user07	1	내가 너무 좋아하는 뮤지션!
+235	user07	1	
+235	user08	1	
+235	user08	1	
+235	user08	0	
+235	zoo	0	
+236	fe91	1	슬프다
+236	lee03	0	
+236	rudgns	1	
+236	son12	1	뭔데 나도 모르게 눈물이 흐르지
+236	tpwns	0	
+236	woo93	0	
+237	ji89	0	
+237	kimsang	0	
+237	na97	0	
+237	user08	0	
+238	jin02	0	
+238	user04	1	중독된다
+238	user6732	0	
+239	hong3	1	들어본 노래중 젤 좋은듯
+239	kim82	0	
+239	na97	0	
+239	name96	0	
+239	name96	0	
+239	youjin	1	
+239	zoo	0	
+240	hong3	1	
+240	jisoo	0	
+240	name96	0	
+240	soyoung	0	
+240	yena	0	
+240	youjin	0	
+241	ji89	0	
+241	na97	1	절 위로해주는거 같아요
+241	user04	0	
+242	hwang	1	끝까지 안지루한 노래
+242	kim96	0	
+242	kimsang	0	
+242	song	0	
+242	tjwns	0	
+242	tpwns	0	
+242	user03	1	노래가 좋아요
+242	user07	1	oh my godness…
+242	user08	0	
+243	dong	1	더 이상 바랄게 없다.
+243	hun96	1	백번들은듯…
+243	kimsang	1	
+243	kimsang	0	
+243	tjwns	1	
+243	tjwns	0	
+243	user07	0	
+244	dong	1	
+244	eun04	0	
+244	son12	1	
+244	song	0	
+244	soyoung	1	노래 너무 좋네요
+244	soyoung	0	
+244	user06	1	
+244	user06	0	
+244	yena	1	진짜 이 노래 라이브로도 듣고 싶다
+244	youjin	0	
+245	na97	0	
+245	tjwns	1	언제 들어도 좋다 ㅎㅎ
+245	user04	1	
+245	wjdtn07	0	
+245	youjin	1	진짜 요즘노래 같음. 완전 트랜디하네
+246	eun04	0	
+246	hoon30	0	
+246	user01	1	
+246	user05	1	
+246	user06	0	
+246	user07	1	10점 만점에 10점
+246	woo93	1	1일5곡
+246	yena	0	
+246	yena	0	
+246	youjin	1	
+247	fe91	0	
+247	hun96	0	
+247	jung00	1	
+247	lee03	1	뭔가 좀 부족한듯?
+247	na97	0	
+247	son12	1	겨울에 듣기 좋다
+247	soyoung	1	슬플때 듣기 좋은 노래
+247	user07	1	듣다가 울었어요
+248	fe91	1	하이라이트에서 터졌다
+248	gmlduf	0	
+248	ji89	1	듣기만 해도 신이 나는 곡
+249	hun96	1	여름에 들으면 2배의 감동
+249	kim82	1	
+249	na97	1	감성에 빠진다
+249	user07	0	
+249	wjdtn07	0	
+249	wjdtn07	0	
+250	hun96	0	
+250	hun96	0	
+250	ji89	0	
+250	lee03	1	Her voice is wonderful! <3
+250	tpwns	1	OMG 
+250	user6732	0	
+251	eun04	0	
+251	gmlduf	0	
+251	jung00	0	
+251	kimsang	1	감미로운 목소리
+251	name96	1	
+251	tpwns	1	올해의 대표곡이 되지 않을까 예상
+251	user02	0	
+251	user06	1	
+251	woo93	0	
+251	youjin	1	노래 너무 잘듣고 있어요 매일매일 들어도 새롭고 너무 좋아요
+251	zoo	1	오늘부터 이노래만 듣는다
+252	eun04	0	
+252	hoon30	0	
+252	hun96	0	
+252	ji89	1	어디서 들어본듯?
+252	soyoung	1	가사 하나하나가 마음에 와닫는 그런 노래
+252	user05	0	
+252	user06	1	상큼한 과일을 베어 무는 느낌 톡 쏘는 느낌
+252	user07	0	
+252	user08	0	
+252	wjdtn07	1	
+252	youjin	1	랩부분 너무 좋아
+252	zoo	0	
+253	hoon30	1	
+253	hoon30	0	
+253	jin02	0	
+253	na97	1	몇 년이 지나도 띵곡
+253	na97	0	
+253	rudgns	0	
+253	son12	1	감사합니다!!
+253	wjdtn07	1	
+253	yena	1	
+253	yena	0	
+253	you06	1	
+253	zoo	0	
+254	ji89	1	내가 마음에 담아두고 있었던 말들을 이렇게 불러주신다니.. 감사합니다
+254	jung00	1	노래가 위로되네요
+254	jung00	0	
+254	kim96	0	
+254	name96	1	
+254	song	1	
+254	user01	0	
+254	wjdtn07	1	화음이 소름돋네;
+254	youjin	0	
+255	gmlduf	0	
+255	hoon30	1	사이다를 마신듯한 청량감
+255	hun96	0	
+255	kim82	0	
+255	kim96	1	
+255	kimsang	1	자신의 이야기라서 더 마음에 와닫네
+255	rudgns	0	
+255	user6732	1	RNB와 모던의 조화로운 느낌
+255	wjdtn07	1	이번곡 너무좋다
+255	woo93	0	
+255	youjin	1	
+256	gmlduf	1	죄지은거 같다
+256	hong3	0	
+256	tjwns	1	
+256	wjdtn07	1	
+257	na97	0	
+257	song	1	불러도불러도 질리지 않네요
+257	song	0	
+257	tjwns	1	오우야
+257	user01	0	
+257	youjin	0	
+258	dong	1	들어도 들어도 질리지 않는 노래다
+258	jin02	0	
+258	kim82	1	진짜 취적이다..
+258	rudgns	0	
+258	soyoung	1	
+258	tpwns	1	나를 감성 풍부해지게 만든 노래
+258	user6732	0	
+258	wjdtn07	1	
+259	eun04	0	
+259	gmlduf	0	
+259	hong3	1	숨 못 쉴정도로 긴박하게 신나난다
+259	kim82	0	
+259	tpwns	0	
+259	user03	1	상큼한 노래
+259	user03	1	
+259	user6732	0	
+260	hong3	0	
+260	jin02	1	재미가 없어요
+260	soyoung	1	
+260	user05	1	창법이 독특하네요
+260	yena	0	
+261	eun04	1	
+261	hong3	1	쓸쓸해진다
+261	jin02	0	
+261	kimsang	0	
+261	lee03	0	
+261	name96	1	
+261	song	1	가슴이 먹먹하다
+261	user07	1	간주부터 소름돋았다
+261	user08	1	
+261	zoo	0	
+262	hoon30	0	
+262	jin02	1	노래 안질림
+262	jin02	1	
+262	jisoo	1	유행을 못따라간다
+262	jung00	1	들으면 들을수록 질리지 않고 더 좋아짐
+262	jung00	1	헤어나오기 힘들다
+262	jung00	1	Perfect.
+262	name96	1	
+262	rudgns	1	진짜 설레는 노래다..
+262	user07	0	
+262	user6732	0	
+262	youjin	1	우리 가족 전부 좋아하는 노래
+263	kim96	1	최악의 노래
+263	user02	1	
+263	user04	1	이곡 따라하지 마세요 목 나갑니다
+263	user06	0	
+264	eun04	0	
+264	hwang	1	
+264	kimsang	0	
+264	soyoung	1	
+264	user08	1	고음부분 아무도 못부를듯
+264	user6732	1	
+264	wjdtn07	1	영주행 가자
+264	zoo	1	
+265	dlsgh	1	
+265	dong	1	
+265	hong3	0	
+265	hun96	1	노래는 좋은데 가수가 별로다
+265	hwang	0	
+265	kimsang	1	
+265	lee03	1	힘빠졌을때 들으면 힘이 나는 노래
+265	name96	1	나의 노래 수준을 높여준 노래
+265	tpwns	1	
+265	user01	1	
+265	user6732	1	
+265	wjdtn07	0	
+265	you06	1	
+266	hong3	1	
+266	hun96	1	여친한테 불러주고 싶어요
+266	rudgns	1	
+266	user04	0	
+266	user6732	0	
+266	yena	1	
+267	dlsgh	1	
+267	jung00	0	
+267	kim96	1	길가다 몇번 들어봤는데 너무 좋아요
+267	kim96	0	
+267	user05	0	
+267	user05	0	
+267	user08	1	뭐든 잘 될 거야라고 긍정적으로 만들어 주는것 같다
+267	user6732	1	
+268	fe91	1	시험기간에 들으면 안되는 노래
+268	jung00	1	목소리가 너무 좋으심
+268	lee03	0	
+268	soyoung	1	차트 역주행 가즈아
+268	tpwns	0	
+268	user04	0	
+268	user05	1	분위기 좋다
+268	user6732	1	이거 학교에서 애들이 부르고 다니던데
+269	jin02	1	가사에 빠진다
+269	jung00	1	이 가수 노래는 다좋아 무슨..
+269	jung00	0	
+269	song	1	간이 딱 맞는 노래
+269	user03	0	
+269	user04	0	
+269	user6732	1	
+269	user6732	0	
+269	user6732	0	
+269	zoo	1	자기 전에 듣기 좋은 노래
+270	eun04	1	
+270	eun04	0	
+270	eun04	0	
+270	hong3	1	
+270	ji89	1	이분 노래 너무 좋으심
+270	user05	1	최고의 노래
+270	user05	1	아이엠그루트
+270	user08	1	Anyone 2018??? <3
+271	dlsgh	0	
+271	eun04	1	우리반 댄스곡
+271	hong3	0	
+271	hwang	1	좋다고 하도 말하고 다녀서 말하기도 지침
+271	name96	0	
+271	user01	1	
+271	user01	0	
+271	user02	0	
+272	dlsgh	1	슬프다ㅠㅠ
+272	dong	0	
+272	eun04	1	
+272	jin02	0	
+272	na97	0	
+272	user01	0	
+272	user06	0	
+272	user06	0	
+273	na97	0	
+273	name96	0	
+273	user02	0	
+273	zoo	1	행복하다
+274	fe91	0	
+274	hun96	1	잔잔해서 힐링되는거 같아요
+274	ji89	0	
+274	user06	1	매일 산책하면서 들어요
+274	woo93	1	잘불러서 소름돋았어요
+274	yena	0	
+275	gmlduf	1	
+275	hwang	1	
+275	ji89	1	게임할때 들으면서 합니다
+275	ji89	1	계속 듣고 있네요
+275	jung00	1	최고
+275	lee03	1	진짜 중독성있어요
+275	song	0	
+275	user02	1	뭔가 편안해지는 느낌
+275	wjdtn07	1	한국인 찾습니다~!
+275	yena	1	
+275	you06	0	
+276	dlsgh	0	
+276	hoon30	0	
+276	hun96	1	다 완벽한 노래임
+276	hun96	0	
+276	kimsang	1	
+276	soyoung	1	헤어졌을때 들으면 와닿을듯
+276	user02	1	밤에 놀때 틀면 신남
+277	hwang	0	
+277	kimsang	1	
+277	na97	0	
+278	hong3	0	
+278	name96	0	
+278	name96	0	
+278	son12	1	내 최초의 인생 곡
+278	yena	1	
+279	fe91	1	
+279	hun96	1	계속 듣고 싶다
+279	ji89	0	
+279	jung00	0	
+279	lee03	0	
+279	son12	0	
+279	song	1	호불호가 꽤 갈릴듯
+279	tpwns	1	이게 노래가 왜 인기가 없는지 모르겠다
+279	tpwns	0	
+279	user02	0	
+279	user03	1	머릿속에서 계속 생각나..
+279	user08	1	뻔하지만 중독성 있는 노래
+280	fe91	0	
+280	hong3	1	
+280	son12	1	My favorite Song!
+280	woo93	1	
+280	youjin	1	대박…
+281	dong	1	내 최애곡이 하나 늘었다
+281	fe91	1	
+281	jin02	0	
+281	jisoo	1	
+281	kim96	1	가사가 지금 내 상황에 딱 위로가 되네요..
+281	rudgns	1	
+281	tjwns	0	
+281	user04	1	어떻게 이래.. 음악도 좋고 목소리도 좋고 가사도 이쁘고…
+281	youjin	1	
+282	fe91	0	
+282	hwang	0	
+282	jung00	1	
+282	tjwns	1	
+282	user03	0	
+282	user05	0	
+282	wjdtn07	1	마음이 차분해져요
+282	youjin	0	
+282	youjin	0	
+283	hoon30	1	
+283	hwang	1	그 시대로 돌아간 느낌
+283	ji89	0	
+283	jung00	0	
+283	kimsang	0	
+283	tpwns	1	내 최애곡
+283	user03	0	
+283	user07	0	
+284	eun04	1	공부할때 들으면 좋다
+284	fe91	1	
+284	hong3	1	목소리 너무 좋은데?
+284	hong3	0	
+284	hwang	0	
+284	ji89	0	
+284	jisoo	1	혼자있고싶어진다
+284	kimsang	1	이분 노래가 다좋아요
+284	user03	0	
+284	you06	0	
+284	youjin	0	
+284	zoo	0	
+285	dlsgh	0	
+285	gmlduf	0	
+285	hoon30	1	너무 높지만 부르는 노래
+285	ji89	0	
+285	kim82	0	
+285	kim96	1	
+285	user06	1	
+285	user6732	1	
+286	dlsgh	0	
+286	jin02	0	
+286	jin02	0	
+286	user01	1	
+287	eun04	0	
+287	hwang	0	
+287	lee03	0	
+287	na97	1	음악 퀄리티가 확실히 좋음
+287	son12	0	
+287	soyoung	1	
+287	tpwns	1	이노래 무한반복 중
+287	user02	0	
+288	dlsgh	0	
+288	hun96	0	
+288	jung00	0	
+288	na97	0	
+288	name96	0	
+288	you06	0	
+288	zoo	1	백번을 들어도 색다르고 좋다..
+289	eun04	1	말이 안나오는 노래
+289	hwang	1	가수분 너무멋져요
+289	hwang	1	다른일 할때 틀면 신이난다
+289	song	0	
+289	user06	1	스밍을 부르는 노래
+289	user08	1	
+289	user6732	0	
+290	dlsgh	0	
+290	dong	0	
+290	hun96	1	목소리 너무 좋아요
+290	kimsang	0	
+290	name96	1	와 작사 작곡도 직접 했네.. 못하는게 뭐야
+290	name96	1	꺄아아아
+290	rudgns	0	
+290	son12	0	
+290	soyoung	0	
+290	tjwns	1	
+290	user02	1	밤마다 들으며 잠들어요
+290	user04	0	
+290	user06	1	가사가 좋다
+290	user06	0	
+290	user6732	0	
+290	zoo	0	
+291	hun96	1	그립다
+291	hun96	1	
+291	kim96	0	
+291	kimsang	1	
+291	lee03	1	
+291	soyoung	0	
+291	user03	0	
+291	user04	1	
+291	wjdtn07	0	
+291	zoo	0	
+292	gmlduf	0	
+292	hwang	1	
+292	jisoo	1	암만봐도 너무 좋다. 노래방가면 꼭 부르는 곡중에 하나
+292	na97	1	I like this song. <3
+292	rudgns	1	목소리가 사기적인 노래
+292	user01	0	
+292	user6732	0	
+293	eun04	1	
+293	fe91	0	
+293	hoon30	0	
+293	jisoo	0	
+293	na97	1	잘때들으면 좋을듯
+293	name96	1	좋긴한데 내취향은 아닌듯
+293	rudgns	1	부럽다
+293	rudgns	1	비트가 사기야
+293	tjwns	0	
+293	user02	1	
+293	user04	0	
+294	eun04	1	
+294	hun96	0	
+294	kim82	1	
+294	name96	1	
+294	user03	1	벌써 공부하면서 3시간째 듣는중…
+294	woo93	1	크…
+295	dong	0	
+295	jung00	0	
+295	kimsang	1	
+295	lee03	1	졸릴때들으면 확 깨요
+295	na97	0	
+295	name96	0	
+295	user05	1	노래 좋다
+295	user06	1	
+295	woo93	0	
+295	yena	1	
+296	kim82	0	
+296	lee03	1	나도 모르게 찾아서 듣게된다 너무 좋아
+296	lee03	1	공부하면서 들으면 좋을거 같다
+296	lee03	0	
+296	na97	1	음색깡패
+296	soyoung	0	
+296	wjdtn07	0	
+296	yena	0	
+296	you06	1	
+297	hoon30	0	
+297	hoon30	0	
+297	hwang	0	
+297	na97	1	
+297	son12	0	
+297	user01	1	
+297	woo93	1	
+297	yena	0	
+297	yena	0	
+298	hoon30	0	
+298	hun96	0	
+298	jisoo	0	
+298	kim82	1	잔잔하면서 듣기 좋은 목소리
+298	song	0	
+298	user03	1	
+298	user04	1	연애하고 싶어지는 노래인듯
+298	user6732	1	
+298	yena	0	
+298	you06	1	
+299	dong	1	
+299	hoon30	0	
+299	jisoo	0	
+299	kim82	0	
+299	user04	1	걸크러쉬
+300	jisoo	0	
+300	kim96	1	마치 내가 저기에 있는 느낌;
+300	name96	1	취향저격
+300	name96	0	
+300	tpwns	1	노래 너무 좋다..
+300	user04	1	망했다.. 내일 시험인데..
+301	jung00	1	
+301	name96	0	
+301	yena	0	
+301	you06	0	
+302	jin02	0	
+302	user01	1	야하다
+302	youjin	0	
+303	fe91	1	이 시대사람들은 이해못하는 노래
+303	jin02	0	
+303	jisoo	0	
+303	kim96	0	
+303	na97	1	
+303	son12	1	
+303	tjwns	0	
+303	user07	1	
+303	user07	1	
+303	user08	0	
+303	user6732	1	길가다 들어본 노래다
+304	jisoo	0	
+304	kim96	1	
+304	name96	1	
+304	song	1	
+304	song	0	
+304	tjwns	1	와.. 이번껀 미쳤다
+304	tjwns	0	
+304	user06	1	
+304	user06	0	
+305	dlsgh	1	이 가수 노래 다 좋아요 다른곡도 들어보셈
+305	eun04	0	
+305	fe91	1	짜증이난다
+305	gmlduf	1	듣다 보면 질림
+305	kim82	0	
+305	kimsang	0	
+305	lee03	0	
+305	name96	1	화날때 들으면 진정될듯
+305	song	1	음원 1등 가즈즈즈아!!
+305	user02	0	
+305	user07	1	다시 들어도 명곡
+306	hoon30	0	
+306	kim82	1	중얼거리다가도 제목을 잊어 못찾았었는데
+306	kim82	0	
+306	kim96	0	
+306	son12	1	따뜻함을 느낄수 있는 노래
+306	tpwns	1	랩 가사가 묵직함
+306	user04	0	
+306	user06	0	
+307	gmlduf	0	
+307	ji89	1	이건 너무 좋은 것 아닙니까..
+307	jisoo	0	
+307	kim96	0	
+307	lee03	1	마트 전용 노래
+307	name96	1	
+307	son12	1	
+307	tpwns	0	
+307	tpwns	0	
+307	user02	0	
+308	eun04	1	
+308	hong3	1	
+308	kim82	1	제가 웬만해선 댓글 안다는데 이노래가 댓글을 달게 만드네요
+308	kim96	0	
+308	lee03	1	사랑스러운 노래
+308	na97	1	멜로디가 흥겹네요
+308	song	1	
+308	soyoung	0	
+308	tjwns	1	들으면 들을수록 감미롭다
+308	user06	0	
+308	user08	0	
+308	user6732	1	
+308	you06	1	
+308	you06	0	
+309	dong	1	ㅠㅠ..
+309	gmlduf	1	한편의 동화 같은, 궁금해서 자꾸만 넘겨보고 싶다
+309	hong3	0	
+309	hwang	1	고백할때 부르기 좋을거같아요
+309	jung00	1	
+309	user02	1	
+309	user05	0	
+309	user08	1	안좋을때 들으면 더 안좋은 노래
+309	user08	0	
+310	dlsgh	1	
+310	dong	0	
+310	soyoung	0	
+310	user06	1	
+310	wjdtn07	0	
+310	zoo	1	새삼스럽게 정말 대단한 가수라고 느낀다.
+311	jung00	1	시간이 지나서도 계속 듣게 될 노래
+311	kimsang	0	
+311	name96	0	
+311	tjwns	0	
+311	user01	0	
+311	user02	1	
+311	you06	0	
+311	zoo	1	
+312	dlsgh	1	
+312	hwang	1	봄만 되면 생각이 난다
+312	kimsang	0	
+312	user07	0	
+313	eun04	0	
+313	hoon30	0	
+313	hun96	1	
+313	kim96	1	정신이 이상해지는거 같다
+313	lee03	0	
+313	user02	1	친구네 집가서 듣던노래
+313	user6732	0	
+313	you06	1	
+314	dong	0	
+314	eun04	1	합법적 마약
+314	eun04	1	그저 감탄만 나오는 노래
+314	jin02	0	
+314	kimsang	0	
+314	soyoung	0	
+314	user02	1	폭풍 속의 고요한 느낌
+314	user05	1	사랑해요!!!
+314	user08	1	이거 노래방에서 부르면 인기많을듯
+315	dlsgh	0	
+315	kimsang	1	
+315	son12	1	원래 불면증있는데 이거 들으니까 잠 잘오더라
+315	user02	1	오늘부터 이노래만 들어야겠다
+315	user03	1	목소리가 매력적임
+315	user05	1	
+315	user08	1	
+315	user6732	0	
+315	you06	1	목소리랑 가사가 잘 맞는다
+315	you06	1	
+315	you06	0	
+315	zoo	1	내 친구 오늘 이노래 수업시간에 흥얼거리다 쌤한테 혼남 ㅋㅋㅋ
+317	ji89	0	
+317	kim82	1	모르는 사람이 많은 꿀노래
+317	kim82	0	
+317	kim96	1	이 노래만 들어야겠다
+317	user08	0	
+318	dong	0	
+318	eun04	1	
+318	eun04	0	
+318	gmlduf	1	봄에듣기좋은노래
+318	gmlduf	0	
+318	hoon30	1	
+318	song	1	반주랑 목소리가 잘맞는듯
+318	song	0	
+318	soyoung	0	
+318	tjwns	0	
+318	youjin	0	
+319	hoon30	1	
+319	hun96	1	와 소름 돋았다
+319	na97	1	
+319	rudgns	1	그저 스쳐가는 곡이었는데 내 상황이 되니까 와닫는다.. 인생곡
+319	tjwns	1	이 가수 노래는 거의 다 명곡인듯
+319	user02	1	노래방 가면 제일먼저 이거 예약함
+319	user03	1	이노래는 몇년가도 잊혀지지않을거 같아요
+320	lee03	0	
+320	user04	1	ㄹㅇ 띵곡
+320	youjin	1	역시 기대이상이네
+320	zoo	1	
